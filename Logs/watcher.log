@@ -1,0 +1,13 @@
+2026-02-11 19:08:08,797 - FileSystemWatcher - INFO - File system watcher started. Monitoring Inbox folder...
+2026-02-11 19:08:29,138 - FileSystemWatcher - INFO - Processing new file: new.md
+2026-02-11 19:08:29,139 - FileSystemWatcher - ERROR - Error processing file /home/pc/Hackathon 0/Inbox/new.md: module 'mimetypes' has no attribute 'getect_type'
+2026-02-11 19:09:02,360 - FileSystemWatcher - INFO - Processing new file: sdsd.pdf
+2026-02-11 19:09:02,361 - FileSystemWatcher - ERROR - Error processing file /home/pc/Hackathon 0/Inbox/sdsd.pdf: module 'mimetypes' has no attribute 'getect_type'
+2026-03-17 21:37:17,574 - FileSystemWatcher - INFO - File system watcher started. Monitoring Inbox folder...
+2026-03-17 21:37:34,383 - FileSystemWatcher - INFO - Processing new file: README.md
+2026-03-17 21:37:34,384 - FileSystemWatcher - ERROR - Error processing file /home/pc/Hackathon 0/Inbox/README.md: module 'mimetypes' has no attribute 'getect_type'
+2026-03-17 21:41:48,400 - FileSystemWatcher - INFO - File system watcher started. Monitoring Inbox folder...
+2026-03-17 21:41:56,733 - FileSystemWatcher - INFO - Processing new file: README.md
+2026-03-17 21:41:56,768 - FileSystemWatcher - INFO - Created summary: README_summary.md
+2026-03-17 21:41:56,770 - FileSystemWatcher - INFO - Moved original file to Done: README.md
+2026-03-17 21:41:56,771 - FileSystemWatcher - INFO - Successfully processed file: README.md -> README_summary.md
